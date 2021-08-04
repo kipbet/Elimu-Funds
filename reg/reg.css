@@ -1,0 +1,40 @@
+ul{
+    color: white;
+    background:rgb(7, 7, 48);
+    display: flex;
+    width: 100%;
+    height: 70px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    margin-top: 20px;
+}
+/* .imag{
+    background: url(./pic/african-kid2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+        
+} */
+.nav{
+    background-color: rgb(13, 13, 51);
+    color: white;
+    text-decoration: none;
+    justify-content: space-evenly;
+    display: flex;
+    height: 100px;
+
+}
+.form.imag{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin-top: 30px;
+}
+.imag{
+    %;
+}
