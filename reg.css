@@ -1,3 +1,6 @@
+*{
+    overflow:hidden;
+}
 ul{
     color: white;
     background:rgb(7, 7, 48);
@@ -45,4 +48,5 @@ footer{
     position: absolute;
     width: 98%;
     bottom: 0;
+    margin-bottom: 0%;
 }
