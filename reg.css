@@ -15,7 +15,9 @@ li{
     background: url(./pic/african-kid2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
+    height:700px;
+    display: flex;
+    justify-content: center;
 }
 .nav{
     background-color: rgb(13, 13, 51);
@@ -30,15 +32,17 @@ li{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.form{
-
+.form ul{
+      display: flex;
+      position: relative;
 }
 .nav a{
     text-decoration: none;
     color: white;
     margin-top: 30px;
 }
-
-.footer {
-    
+footer{
+    position: absolute;
+    width: 98%;
+    bottom: 0;
 }
