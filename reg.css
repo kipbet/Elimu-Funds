@@ -11,12 +11,12 @@ ul{
 li{
     margin-top: 20px;
 }
-/* .imag{
-    background: url(./pic/african-kid2.png);
+.form{
+    background: url(./reg/pic/african-kid2.png);
     background-repeat: no-repeat;
-    background-size: 100%;
-        
-} */
+    background-size: cover;
+    height: 700px;
+}
 .nav{
     background-color: rgb(13, 13, 51);
     color: white;
@@ -34,7 +34,4 @@ li{
     text-decoration: none;
     color: white;
     margin-top: 30px;
-}
-.imag{
-    %;
 }
