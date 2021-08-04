@@ -13,12 +13,9 @@ li{
 }
 .imag{
     background: url(./pic/african-kid2.png);
-    padding: 0;
-    margin: 0;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    width:100%;    
+    background-size: 100%;
+        
 }
 .nav{
     background-color: rgb(13, 13, 51);
@@ -30,8 +27,8 @@ li{
 
 }
 
-#form{
-    margin-left: 45%;
+.form{
+    background-color: blue;
 }
 .nav a{
     text-decoration: none;
