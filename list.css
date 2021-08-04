@@ -16,7 +16,6 @@ nav a{
     padding: 0;
     background-size: contain;
     background-image: url("../images/boywithparents.jpg");
-    border-style: dotted;
 }
 #content{
     background-color: rgba(232, 235, 239, 0.3);
