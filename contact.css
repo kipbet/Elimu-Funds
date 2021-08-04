@@ -22,6 +22,10 @@ h1{
 .form{
     align-items: center;
     margin-left: 100px;
+    font-size: larger;
+}
+span{
+    font-size: larger;
 }
 .sec2{
     margin: 20px;
@@ -58,6 +62,6 @@ h1{
 }
 #comments{
     background-color: #1611F4;
-    height: 176;
-    width: 1222;
+    height: 176px;
+    width: 1222px;
 }}
