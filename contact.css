@@ -22,10 +22,10 @@ h1{
 .form{
     align-items: center;
     margin-left: 100px;
-    font-size: larger;
+    font-size: 48px;
 }
 span{
-    font-size: larger;
+    font-size: 48px;
 }
 .sec2{
     margin: 20px;
@@ -64,4 +64,9 @@ span{
     background-color: #1611F4;
     height: 176px;
     width: 1222px;
-}}
+}
+.btn{
+    background-color: black;
+    color: #FF0000;
+    padding: 10px 20px;
+}
