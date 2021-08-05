@@ -24,11 +24,21 @@
 
 {I used HTML and  CSS  in creating this website}
 
+### Live Site
+
+* View [live](https://github.io/kipbet/Elimu-Funds/)
+
 ## Support and contact details
 
 {Feel free to contact me at brian.cheruiyot@student.moringaschool.com when you encounter a bug.}
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2021} **{BRIAN CHERUIYOT ,BRIAN ASHIALI,  RONALD KIBET, CLARA METTO}**
+# License Information
+
+* This software is licensed under MIT License.
+* Read More <https://github.com/kipbet/Elimu-Funds/blob/main/README.md>
+
+## Design
+
+* ![design](https://www.figma.com/file/cTSlOUbG320uOqHxiekW0P/Untitled?node-id=8%3A6)
