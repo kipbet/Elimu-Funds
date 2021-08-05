@@ -31,7 +31,7 @@ li{
     height: 100px;
 
 }
-.form.imag{
+.form .imag{
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -45,7 +45,8 @@ li{
     margin-top: 30px;
 }
 footer{
-    position: absolute;
+    display: block;
+    position: fixed;
     width: 98%;
     bottom: 0;
     margin-bottom: 0%;
