@@ -15,7 +15,7 @@ nav a{
     margin: 0;
     padding: 0;
     background-size: contain;
-    background-image: url("../images/boywithparents.jpg");
+    background-image: url("./images/boywithparents.jpg");
 }
 #content{
     background-color: rgba(232, 235, 239, 0.3);
